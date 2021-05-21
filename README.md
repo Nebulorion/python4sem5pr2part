@@ -344,7 +344,7 @@ n91 -> n71
 ```
 
 ###Picture (graphvizDefault.png):
-
+[![graphvizDefault.png](https://github.com/OldBikerS/python4sem5pr2part/blob/main/graphvizDefault.png "graphvizDefault.png")](https://github.com/OldBikerS/python4sem5pr2part/blob/main/graphvizDefault.png "graphvizDefault.png")
 
 ##Testing random start state:
 
@@ -727,6 +727,8 @@ n103 -> n81
 ```
 
 ###Picture (graphvizRandom.png)
+
+[![graphvizRandom.png](https://github.com/OldBikerS/python4sem5pr2part/blob/main/graphvizRandom.png "graphvizRandom.png")](https://github.com/OldBikerS/python4sem5pr2part/blob/main/graphvizRandom.png "graphvizRandom.png")
 
 ##Code with comments (main.py):
 ```python
